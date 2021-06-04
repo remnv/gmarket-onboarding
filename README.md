@@ -15,5 +15,16 @@ Game Market is a market place that allow player to sell their accounts or in gam
 
 ## Repository
 ### Wall
-Wall is an Authorization service with Oauth2 for generating token, login, register and giving each token some permissions
+Wall is an Authorization service with Oauth2 for generating token, login, register and giving each token some permissions.
+
 Repo link : [https://github.com/remnv/gmarket-wall](https://github.com/remnv/gmarket-wall)
+
+### Profie
+Profie is a service that will profile profiling and product catalogue.
+
+Repo link : [https://github.com/remnv/gmarket-profie](https://github.com/remnv/gmarket-profie)
+
+### Trady
+Trady is a service that will handle trading service, including buying and selling an items.
+
+Repo link : [https://github.com/remnv/gmarket-trady](https://github.com/remnv/gmarket-trady)
